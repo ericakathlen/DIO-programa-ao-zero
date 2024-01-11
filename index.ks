@@ -1,1 +1,2 @@
-sds
+let nome = "Erica";
+console.log(nome);
